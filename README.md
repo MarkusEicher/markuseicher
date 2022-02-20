@@ -1,16 +1,17 @@
-### Hello dear visitor! 👋 Welcome to the profile repo of Markus Eicher  
+<p align="center" color="blue">
+  <span>Hello dear visitor! 👋</span></br>
+  <span>My name is Markus Eicher</soan></br>
+  <span>Welcome to my GitHub profile</span></br>
+</p>
 
-<!--
-**MarkusEicher/markuseicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My activities and interests are:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on my startup Eicher Development
+- 🌱 I’m currently learning Software-Development, Web- and Graphics-Design
+- 👯 I’m looking to collaborate on open source projects and community
+- 🤔 I’m looking for help with almost anything tech...🤣
+- 💬 Ask me about anything, I will do my best to help
+- 📫 How to reach me: eicher.markus@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
