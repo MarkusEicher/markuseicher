@@ -21,3 +21,12 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#925](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/925) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❌ Closed PR [#925](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/925) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 💪 Opened PR [#925](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/925) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#4](https://github.com/MarkusEicher/github-pages-with-jekyll/pull/4) in [MarkusEicher/github-pages-with-jekyll](https://github.com/MarkusEicher/github-pages-with-jekyll)
+5. 💪 Opened PR [#4](https://github.com/MarkusEicher/github-pages-with-jekyll/pull/4) in [MarkusEicher/github-pages-with-jekyll](https://github.com/MarkusEicher/github-pages-with-jekyll)
+6. 🎉 Merged PR [#2](https://github.com/MarkusEicher/github-pages-with-jekyll/pull/2) in [MarkusEicher/github-pages-with-jekyll](https://github.com/MarkusEicher/github-pages-with-jekyll)
+7. 💪 Opened PR [#2](https://github.com/MarkusEicher/github-pages-with-jekyll/pull/2) in [MarkusEicher/github-pages-with-jekyll](https://github.com/MarkusEicher/github-pages-with-jekyll)
+8. ❗️ Closed issue [#1](https://github.com/MarkusEicher/github-pages-with-jekyll/issues/1) in [MarkusEicher/github-pages-with-jekyll](https://github.com/MarkusEicher/github-pages-with-jekyll)
+<!--END_SECTION:activity-->
