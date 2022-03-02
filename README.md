@@ -5,14 +5,14 @@
 
 #### My activities and interests are:
 
-- 🔭 I’m currently working on my startup Eicher Development
-- 🌱 I’m currently learning Software-Development, Web- and Graphics-Design
+- 🔭 I’m currently working on impoving my health
+- 🌱 I’m learning Software- and Web-Development, Graphics-Design
 - 👯 I’m looking to collaborate on open source projects and community
-- 🤔 I’m looking for help with almost anything tech...🤣
+- 🤔 I’m happy for help and assistance with almost anything tech...🤣
 - 💬 Ask me about anything, I will do my best to help
 - 📫 How to reach me: eicher.markus@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Profile and Portfolio: https://www.markuseicher.com (Work in progress... 
 </br>
 
 <p align="center">
