@@ -1,6 +1,8 @@
-<p align="center" color="blue">
-  <span>Hello dear visitor! 👋</span></br>
-  <span>Welcome to my GitHub profile</span></br>
+![Twitterbanner](https://user-images.githubusercontent.com/83175378/156947583-e56dc950-5547-4b74-b8ee-489ea886135b.png)
+
+<p align="left">
+  <span color="blue">Hello dear visitor! 👋</span></br>
+  <span color="blue">Welcome to my GitHub profile</span></br>
 </p>
 
 #### My activities and interests are:
