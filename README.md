@@ -14,7 +14,8 @@
 - 💬 Ask me about anything, I will do my best to help
 - 📫 How to reach me: eicher.markus@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Profile: https://www.markuseicher.com (Work in progress...) 😋 
+- ⚡ Profile: https://www.markuseicher.com (Work in progress...) 😋
+- ⚡ Blog: https://blog.markuseicher.com 👋 
 </br>
 
 <p align="center">
