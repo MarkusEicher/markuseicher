@@ -1,11 +1,8 @@
 ![Twitterbanner](https://user-images.githubusercontent.com/83175378/156947583-e56dc950-5547-4b74-b8ee-489ea886135b.png)
 
-<p align="left">
-  <span color="blue">Hello dear visitor! 👋</span></br>
-  <span color="blue">Welcome to my GitHub profile</span></br>
-</p>
-
-#### My activities and interests are:
+# Welcome to my GitHub profile
+## Hello dear visitor! 👋
+### My activities and interests are:
 
 - 🔭 I’m currently working on impoving my health
 - 🌱 I’m learning Software- and Web-Development, Graphics-Design
@@ -14,8 +11,9 @@
 - 💬 Ask me about anything, I will do my best to help
 - 📫 How to reach me: eicher.markus@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Profile: https://www.markuseicher.com (Work in progress...) 😋
-- ⚡ Blog: https://blog.markuseicher.com 👋 
+- ⚡ Personal Profile: https://www.markuseicher.com 👋
+- ⚡ Blog: https://blog.markuseicher.com 👋
+- ⚡ Project LearnToCodeCompanion: https://www.markuseicher.com/LearnToCodeCompanion/ 👋 
 </br>
 
 <p align="center">
