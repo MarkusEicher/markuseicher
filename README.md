@@ -1,8 +1,10 @@
-![Twitterbanner](https://user-images.githubusercontent.com/83175378/156947583-e56dc950-5547-4b74-b8ee-489ea886135b.png)
-
 # Welcome to my GitHub profile
 ## Hello dear visitor! 👋
+
+![MECS-Twitter-Profile-Banner](https://user-images.githubusercontent.com/83175378/186229706-df3c8aed-d4e9-4081-837d-0ef5a03f73bb.png)
+
 ### My activities and interests are:
+
 
 - 🔭 I’m currently working on impoving my health
 - 🌱 I’m learning Software- and Web-Development, Graphics-Design
