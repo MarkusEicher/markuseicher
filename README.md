@@ -6,7 +6,7 @@
 ### My activities and interests are:
 
 
-- 🔭 I’m currently working on impoving my health
+- 🔭 I’m currently looking for an internship
 - 🌱 I’m learning Software- and Web-Development, Graphics-Design
 - 👯 I’m looking to collaborate on open source projects and community
 - 📫 How to reach me: markuseicher@outlook.com
