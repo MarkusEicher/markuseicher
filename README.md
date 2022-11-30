@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile
 ## Hello dear visitor! 👋
 
-![MECS-Twitter-Profile-Banner](https://user-images.githubusercontent.com/83175378/186229706-df3c8aed-d4e9-4081-837d-0ef5a03f73bb.png)
+![MECS-GitHub-Profile-Banner-Grey](https://user-images.githubusercontent.com/83175378/204786182-ad69b9db-7fa7-4805-aefc-9ccc4793fb7f.png)
 
 ### My activities and interests are:
 
