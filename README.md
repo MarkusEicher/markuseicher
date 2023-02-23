@@ -1,18 +1,18 @@
 # Welcome to my GitHub profile
-![MECS-GitHub-Profile-Banner-Grey](https://user-images.githubusercontent.com/83175378/204786182-ad69b9db-7fa7-4805-aefc-9ccc4793fb7f.png)
+![A view of a fantasy valley with glowing river](https://user-images.githubusercontent.com/83175378/220909308-7dadd1e2-7d71-44bf-9390-1cf9ea17a3e5.jpg)
 ## Hello dear visitor! 👋
+
 
 
 
 ### My activities and interests are:
 
 
-- 🔭 I’m currently looking for an internship
-- 🌱 I’m learning Software- and Web-Development, Graphics-Design
+- 🔭 I’m currently in training to become a healthcare PeerWorker
+- 🌱 I’m learning Software-Development focused on AI and Blockchain
 - 👯 I’m looking to collaborate on open source projects and community
 - 📫 How to reach me: markuseicher@outlook.com
-- ⚡ Personal Profile: https://www.markuseicher.com 👋
-- ⚡ Blog: https://blog.markuseicher.com 👋
+- ⚡ Personal Website: https://www.markuseicher.info 👋
 </br>
 
 <p align="center">
