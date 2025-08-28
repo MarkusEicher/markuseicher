@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile
-![A view of a fantasy valley with glowing river](https://user-images.githubusercontent.com/83175378/220909308-7dadd1e2-7d71-44bf-9390-1cf9ea17a3e5.jpg)
+![A stylistic face in front of a cyberpunk styled gray silver background](https://github.com/user-attachments/assets/3c2b6887-3ff5-4405-8b8d-1c4d8d42d41d)
 ## Hello dear visitor! 👋
+
 
 
 
@@ -13,6 +14,7 @@
 - 👯 I’m looking to collaborate on open source projects and community
 - 📫 How to reach me: markuseicher@outlook.com
 - ⚡ Personal Website: https://www.markuseicher.info 👋
+
 </br>
 
 <p align="center">
