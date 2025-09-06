@@ -9,8 +9,8 @@
 ### My activities and interests are:
 
 
-- 🔭 I’m currently in training to become a healthcare PeerWorker
-- 🌱 I’m learning Software-Development focused on AI and Blockchain
+- 🔭 Interested in Software Development, AI, ML, Web, Blockchain. Opensource and Decentralization fan. 
+- 🌱 Believer in lifelong learning. Now deepdiving into Rust & WASM
 - 👯 I’m looking to collaborate on open source projects and community
 - 📫 How to reach me: markuseicher@outlook.com
 - ⚡ Personal Website: https://www.markuseicher.info 👋
